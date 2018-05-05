@@ -1,1 +1,7 @@
 # 2018-WebLaunch-PostWorkshop
+
+If you are reading this, it mean that WebLaunch series had come to an end. The end of WebLaunch does not necessary mean the end of your learning journey, in fact it just started. 
+
+Throughout the WebLaunch, we had a lot of shortcoming, we assume things, we went too fast, ta (teaching assistant) are not well prepared with the topic (I am one of them), we use jargon that difficult to understand, etc, but one thing that are certain is that we have a lot of passion. We are constantly trying to improve and learn from the past mistake so that we can do it even better in the future. 
+
+As I mention earlier, end of WebLaunch does not mean the end of your journey. You might think that you are just a business student, or others, why do you need to continue learning web development? In my personal opinion, it is not really about having a special skills so it is easier to get employed, or you learn it because you are an IT student so that you can earn a lot of money being a web developer, but it is more about self enhancement. You might be a business student, finance student, marketing student, etc, but it does not mean that you only can learn about what you specialize in. I am an computer science student does not mean that I cannot learn economics, finance, psychology, philosophy, etc on my own. Equip yourself with more skills allow you to look at things with more perspective, and this skills might also help you in the future. 
