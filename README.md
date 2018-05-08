@@ -26,6 +26,8 @@ If you are reading this, it mean that WebLaunch series had come to an end. The e
 
 Throughout the WebLaunch, we had a lot of shortcoming, we assume things, we went too fast, TA (teaching assistant) are not well prepared with the topic (I am one of them), we use jargon that difficult to understand, etc, but one thing that are certain is that we have a lot of passion. We are constantly trying to improve and learn from the past mistake so that we can do it even better in the future. 
 
+The end of WebLaunch does not mean the end of your learning journey. You might think that you are not an IT student so there is no need for you to continue learning? In my opinion, it is not just about having an extra skills and have extra advantages in getting employed, it also equip you with skills looking at different perspective. Additional, this skills might help you in the future. 
+
 We have decided to create this guide to provide you guys with some additional information that we are unable to cover during our workshops
 
 This guide is seperated into 2 parts; [**Frontend**](README.md#frontend) and [**Backend**](README.md#backend).
@@ -48,7 +50,8 @@ HTML and CSS is the most basic component in making a website. HTML defined how t
 
 ### CSS Framework
 
-#### What is a CSS framework? 
+#### What is a CSS framework?
+
 CSS framework is a framework where it include all the CSS code that had writen by some professional so that you do not need to rewrite it by yourself. It allow you to create a website much faster than you could had been without it. 
 
 #### Why use CSS?
@@ -101,7 +104,8 @@ JavaScript is covered in our 4th and 5th workshop. One is purely [JavaScript](ht
 
 ### API requests with AJAX
 
-#### What is API? 
+#### What is API?
+
 API is application programming interface. Just imagine you have a cloud server somewhere in China because renting server in China is cheap. Now imagine your server have a lot of your customer detail, include their username, password, name, phone number, etc and you making a website and you want to allow your customer to login and see their detail. So, how can it be done? 
 
 Your server will have API, by sending requests from your frontend to the API, it will return you something. 
