@@ -4,23 +4,21 @@
 
 - [Introduction](README.md#introduction)
 
-- [Guide](README.md#guide)
+- [Frontend](README.md#frontend)
 
-	* [Frontend](README.md#frontend)
+	* [HTML & CSS](README.md#html--css)
 
-		- [HTML & CSS](README.md#html--css)
+	* [CSS Framework](README.md#css-framework)
 
-		- [CSS Framework](README.md#css-framework)
+	* [Static Site Generator](README.md#static-site-generator)
 
-		- [Static Site Generator](README.md#static-site-generator)
+	* [JavaScript](README.md#javascript)
 
-		- [JavaScript](README.md#javascript)
+	* [API requests with AJAX](README.md#api-requests-with-ajax)
 
-		- [API requests with AJAX](README.md#api-requests-with-ajax)
+	* [JavaScript Framework](README.md#javascript-framework)
 
-		- [JavaScript Framework](README.md#javascript-framework)
-
-	* [Backend](README.md#backend)
+- [Backend](README.md#backend)
 
 ## Introduction
 
@@ -34,13 +32,11 @@ Throughout the whole workshop, we had covered topic which includes **HTML**, **C
 
 In this guide, there will be seperated into 2 part, which is Frontend and Backend. What we had learnt so far are all within the scope of frontend. 
 
-## Guide
-
-### Frontend
+## Frontend
 
 As you had know, frontend is what you see in your website. 
 
-#### HTML & CSS
+### HTML & CSS
 
 HTML and CSS is the most basic component in making a website. HTML defined how to structure looks like, while CSS defined the style or the appearance of the website. Although we had covered these in WebLaunch, but in case if you want to do some revision or you had friend who are interested but you do not have any resources, here are some tutorial which you can go through. 
 
@@ -52,7 +48,7 @@ HTML and CSS is the most basic component in making a website. HTML defined how t
 
 1. [W3Schools CSS Tutorial](https://www.w3schools.com/Css/)
 
-#### CSS Framework
+### CSS Framework
 
 What is CSS framework? CSS framework is a framework where it include all the CSS code that had writen by some professional so that you do not need to rewrite it by yourself. It allow you to create a website much faster than you could had been without it. 
 
@@ -86,7 +82,7 @@ Documentation are your best tutorial!
 
 Documentation can be found easily in the their website itself. It will usually call **Docs** or **Documentation**. Explore these CSS framework through the documentation and find out what suit you the most. There is no best CSS framework, but rather more suitable depending on the circumstances. 
 
-#### Static Site Generator
+### Static Site Generator
 
 Writing my own website is so tired, and all I need is just a static personal website or my own blog that can be static. What can I do to solve this problem? 
 
@@ -98,7 +94,7 @@ In the website, it include a lot of different static site generator and they had
 
 Notable mention will be [Jekyll](https://jekyllrb.com/), because the site that you are currently viewing right now are made by Jekyll.
 
-#### JavaScript
+### JavaScript
 
 JavaScript had been covered in our 4th and 5th workshop. One is purely JavaScript, while the other are DOM. JavaScript allow you to have extra functionality in your website. During our JavaScript workshop, we did not covered everything in JavaScript due to time constrain. Therefore, we only cover things that are necessary to understand during DOM workshop. 
 
@@ -116,7 +112,7 @@ With that in mind, it is good to go through a JavaScript tutorial by yourself, n
 
 After going through all the tutorial, you will realize that we had a lot that we had yet to covered, such as prefix and postfix increment, truthy and falsy value, for and do-while loop, etc. All of these will be covered extensively in all the tutorial that I had mention above. 
 
-#### API requests with AJAX
+### API requests with AJAX
 
 What is API? API is application programming interface. What exactly is that? 
 
@@ -162,7 +158,7 @@ If you had already finish some JavaScript tutorial before reading this, you migh
 
 1. [W3Schools AJAX Tutorial](https://www.w3schools.com/js/js_ajax_intro.asp)
 
-#### JavaScript Framework
+### JavaScript Framework
 
 What is a JavaScript framework and why do you need one? From [Wikipedia](https://en.wikipedia.org/wiki/JavaScript_framework), the definition of JavaScript framework is 
 
@@ -192,6 +188,6 @@ All of these framework will include documentation either within their website or
 
 1. [Adonis](https://www.adonisjs.com/docs/4.1/installation)
 
-### Backend
+## Backend
 
 Backend is the part in a web where it does all the business logic and data persistent. 
