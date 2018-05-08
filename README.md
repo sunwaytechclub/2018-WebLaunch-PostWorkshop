@@ -32,7 +32,7 @@ We have decided to create this guide to provide you guys with some additional in
 
 This guide is seperated into 2 parts; [**Frontend**](README.md#frontend) and [**Backend**](README.md#backend).
 
-## <a name="frontend"></a>Frontend
+## Frontend
 
 As you had know, frontend is what you see in your website. 
 
@@ -180,6 +180,6 @@ All of these framework will include documentation either within their website or
 
 1. [Adonis](https://www.adonisjs.com/docs/4.1/installation)
 
-## <a name="backend"></a>Backend
+## Backend
 
 Backend is the part in a web where it does all the business logic and data persistent. 
