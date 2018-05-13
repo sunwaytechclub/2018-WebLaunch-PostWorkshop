@@ -182,10 +182,6 @@ All of these framework will include documentation either within their website or
 
 1. [Nuxt.js](https://nuxtjs.org/guide)
 
-1. [Feathers](https://docs.feathersjs.com/)
-
-1. [Adonis](https://www.adonisjs.com/docs/4.1/installation)
-
 ## Backend
 
 Backend is the part in a web where it does all the business logic and data persistent. Backend are usually made up of 2 component, which is databases and servers. 
