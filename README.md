@@ -20,6 +20,12 @@
 
 - [Backend](README.md#backend)
 
+	* [Database](README.md#database)
+
+	* [Server](README.md#server)
+
+	* [MISC](README.md#misc)
+
 ## Introduction
 
 If you are reading this, it mean that WebLaunch series had come to an end. The end of WebLaunch does not necessary mean the end of your learning journey, in fact it just started. 
@@ -182,4 +188,108 @@ All of these framework will include documentation either within their website or
 
 ## Backend
 
-Backend is the part in a web where it does all the business logic and data persistent. 
+Backend is the part in a web where it does all the business logic and data persistent. Backend are usually made up of 2 component, which is databases and servers. 
+
+### Database
+
+Database is an organized collection of data. It is a collection of schemes, tables, rows, etc. There are 2 type of database, which is SQL (Structured Query Language) database and NoSQL (Non Structured Query Language). 
+
+#### SQL
+
+SQL is a language that enable CRUD (create, read, update, delete) on the data in a database. 
+
+Although SQL is an `ANSI/ISO` standard, there are different version of SQL language. However, the differences between each of them are very small. So, if you realize you are using one which is different from the one you had learnt, all you need to do is google and find out the differences (**VERY EASY**).
+
+**Tutorial of SQL**
+
+1. [W3Schools SQL Tutorial](https://www.w3schools.com/sql/sql_intro.asp)
+
+1. [Codecademy Learn SQL](https://www.codecademy.com/learn/learn-sql)
+
+**Examples of SQL databases**
+
+1. [SQLite](https://sqlite.org/index.html)
+
+1. [PostgreSQL](https://www.postgresql.org/)
+
+1. [MariaDB](https://mariadb.com/)
+
+1. [MySQL](https://www.mysql.com/)
+
+#### NoSQL
+
+NoSQL is basically a database used to manage huge sets of unstructured data, where they are not stored in tabular relations like relational databases. [More information for NoSQL database](https://www.studytonight.com/mongodb/what-is-nosql).
+
+**Example of NoSQL database**
+
+1. [MongoDB](https://www.mongodb.com/)
+
+1. [Redis](https://redis.io/)
+
+1. [CrouchDB](https://couchdb.apache.org/)
+
+1. [RavenDB](https://ravendb.net/)
+
+### Server
+
+Server is a computer or computer program which manages access to a centralized resource or service in a network. When you press a button in a website, it send a request a server and wait for the response from the server. [Previously](README.md#api-requests-with-ajax) we had already discuss about API, server will be the one responsible for the API. 
+
+There are a wide range of languages (programming languages) can be choosen from to create a server. We will list out some common one and feel free to learn whichever one you are comfortable with. 
+
+Again, **YOU DO NOT NEED TO KNOW ALL** and documentation are included in their website. 
+
+#### Javascript
+
+1. [Node.js](https://nodejs.org/en/docs/guides/)
+
+1. [Feathers](https://docs.feathersjs.com/)
+
+1. [Adonis](https://www.adonisjs.com/docs/4.1/installation)
+
+#### Ruby
+
+1. [Ruby on Rails](https://rubyonrails.org/)
+
+#### Python
+
+1. [Flask](http://flask.pocoo.org/)
+
+1. [Django](https://www.djangoproject.com/)
+
+1. [Pyramid](https://trypyramid.com/)
+
+#### Java
+
+1. [Spark Framework](http://sparkjava.com/)
+
+1. [Play Framework](https://www.playframework.com/)
+
+#### PHP
+
+1. [Laravel](https://laravel.com/)
+
+### MISC
+
+Here are some of the concept which you might want to learn for backend
+
+1. [RESTful](https://en.wikipedia.org/wiki/RESTful)
+
+1. Authentication
+
+	1. [JWT (JSON Web Token)](https://jwt.io/introduction/)
+
+	1. [OAuth](https://oauth.net/2/)
+
+1. Database
+
+	1. [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping)
+
+		- [SQLAlchemy (Python)](http://docs.sqlalchemy.org/en/latest/index.html)
+
+		- [Hibernate (Java)](http://hibernate.org/)
+
+		- [Doctrine (PHP)](https://www.doctrine-project.org/)
+
+		- [Propel (PHP)](http://propelorm.org/)
+
+	1. [Schema Migration](https://en.wikipedia.org/wiki/Schema_migration)
